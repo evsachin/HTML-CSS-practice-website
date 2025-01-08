@@ -3,9 +3,9 @@ body {
   padding-right: 4rem;
   background: #000;
   /* background-image: url(./public/piano.gif); */
-  background-image: url(./public/boat.gif);
+  background-image: url(../images/boat.gif);
   /* background-image: url(./public/cartoon.gif); */
-  background-image: url(./public/rain.gif);
+  /* background-image: url(../images/piano.gif); */
   background-attachment: fixed;
 }
 
@@ -33,7 +33,7 @@ p {
   font-size: 22px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
-  background-image: url(./public/boat.gif);
+  background-image: url(../images/boat.gif);
   /* background-repeat: no-repeat; */
   background-attachment: fixed;
   /* background-size: cover; */
