@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #003655;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-top: 4rem;
+  background-image: url(./public/boat.gif);
+  background-attachment: fixed;
+}
+
+section {
+  padding: 2rem;
+  height: 500px;
+  /* background-color: #6C0345; */
+  border: 6px solid #fc00ff;
+  border-top-style: dashed;
+  border-left-style: hidden;
+  border-radius: 1rem;
+  outline: 30px dashed wheat;
+  h1 {
+    color: wheat;
+    text-align: center;
+  }
+  p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: white;
+    opacity: 0.9;
+    border: 6px solid #002233;
+    border-top-style: dashed;
+    border-right-style: hidden;
+    border-radius: 1rem;
+    padding: 1rem;
+  }
+}
