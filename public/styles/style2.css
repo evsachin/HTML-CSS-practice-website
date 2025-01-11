@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 body{
     background-color: lightgray;
 }
@@ -23,4 +26,8 @@ p{
 
 .squere{
     vertical-align: top;
+}
+
+.para{
+    font-size: 5rem;
 }
